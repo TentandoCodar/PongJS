@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    text-align: center;
+}
+
+h1 {
+    color: #fff;
+    font-size: 20px;
+    margin: 25px;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    background-color: black;
+    border: 1px solid #fff;
+}
+
+#score {
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+}
+
+#player1Score {
+    color: #fff;
+}
+
+#player2Score {
+    color: #fff;
+}
+
